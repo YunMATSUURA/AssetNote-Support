@@ -1,2 +1,2 @@
 # AssetNote-Support
-This is a support page for the iOS appliation, AssetNote
+このページはアプリ、「資産手帳」のサポートページです。
